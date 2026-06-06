@@ -38,37 +38,22 @@ The projects demonstrate hands-on experience with:
 
 ## Project 1 – Brute Force Authentication Detection Using Wazuh SIEM
 
-### Skills Demonstrated
-
-* Windows Event Log Analysis
-* Event ID 4625 Investigation
-* Authentication Failure Detection
-* Wazuh Rule Correlation
-* Threat Hunting
-* MITRE ATT&CK Mapping
-* Incident Documentation
-
 ### Project Report
 
-Brute_Force_Detection_Project.pdf
+📄 [View Project Report](./Brute_Force_Detection_Project.pdf)
+
 
 ---
 
 ## Project 2 – Wazuh File Integrity Monitoring (FIM)
 
-### Skills Demonstrated
-
-* Wazuh Syscheck Configuration
-* File Integrity Monitoring
-* Windows Endpoint Monitoring
-* Linux Log Analysis
-* Security Event Investigation
-* Configuration Troubleshooting
-* Alert Validation
-
 ### Project Report
 
-FIM Project.pdf
+📄 [View Project Report](./FIM%20Project.pdf)
+
+
+
+
 
 ---
 
