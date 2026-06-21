@@ -50,11 +50,12 @@ The projects demonstrate hands-on experience with:
 ### Project Report
 
 📄 [View Project Report](./FIM%20Project.pdf)
-
-
-
-
-
+## Project 3 - Active Directory Administration Lab
+### Project Documentation
+📁 [View Project Repository](./Active-Directory-Administration-Lab)
+## Project 4 - Automated Vulnerability Assessment & System Hardening (OpenVAS)
+### Project Report
+📄 [View Project Report](./OpenVAS_Vuln_Ass_Project.pdf)
 ---
 
 ## Technologies Used
@@ -68,11 +69,11 @@ The projects demonstrate hands-on experience with:
 * VMware Workstation
 * MITRE ATT&CK Framework
 
----
+
 
 ## Upcoming Projects
 
-* Active Directory Administration Lab
+
 * IT Support Troubleshooting Lab
 * Vulnerability Management with Wazuh
 
